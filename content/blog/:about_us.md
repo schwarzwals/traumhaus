@@ -1,5 +1,5 @@
 ---
-title: "Sealing the deal"
+title: "About us"
 date: 
 slug: ""
 description: "about us"
