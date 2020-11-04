@@ -1,6 +1,6 @@
 ---
 title: "Sealing the deal"
-date: 2020-11-3T17:50:10+01:00
+date: 
 slug: ""
 description: "about us"
 keywords: [about us]
