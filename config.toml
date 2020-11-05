@@ -2,7 +2,7 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "Traumhaus - Our House Building Journey"
+title = "Das Traumhaus - Our House Building Journey"
 languageCode = "en-us"
 baseURL = "https://traum-haus.netlify.app/"
 # copyright = "© {year}"
