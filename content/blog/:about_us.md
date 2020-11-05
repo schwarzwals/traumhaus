@@ -5,7 +5,7 @@ slug: ""
 description: "about us"
 keywords: [about us]
 draft: false
-tags: [about us]
+tags: [about_us]
 math: false
 toc: false
 ---
