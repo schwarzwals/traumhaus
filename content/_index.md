@@ -1,5 +1,5 @@
 ---
 heading: "Das Traumhaus"
-subheading: ""
-handle: "Our House Building Journey"
+subheading: "Our House Building Journey"
+handle: ""
 ---
