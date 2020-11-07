@@ -16,6 +16,6 @@ Building a house is one of life’s biggest decisions, and often the process can
 
 If everything goes smooth, we should move in somewhere between March - September 2022.
 
-Weberhaus is going to build our Dreamhouse.
+<a href="https://www.weberhaus.de/" target="_blank">Weberhaus</a> is going to build our Dreamhouse.
 
 ![Example image](/images/vertrag.png)
