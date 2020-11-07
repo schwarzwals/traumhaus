@@ -22,12 +22,12 @@ baseURL = "https://traum-haus.netlify.app/"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
   # linkedin = "<link to your profile>"
-  # youtube = "https://www.youtube.com/channel/<your channel>"
+  youtube = "https://www.youtube.com/channel/presasportiva"
   
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Email"]
+  iconOrder = ["Email", "YouTube"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
