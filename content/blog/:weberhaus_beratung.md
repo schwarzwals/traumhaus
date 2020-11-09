@@ -16,9 +16,14 @@ Few words about the guys who helped us to start this journey.<br>
 
 <a href="https://www.weberhaus.de/bauforum-in-offenburg-hohberg/" target="_blank">Holger Frey</a>, <b>WeberHaus</b> financial advisor. The guy with the numbers. The guy who knows how much is the fish and if that fish fits your pocket. 
 
+{{< sidenote note="Ut quis turpis quis enim rhoncus vehicula vel et neque. Nullam porta nunc rutrum velit faucibus interdum. Cras in quam non leo mattis feugiat. Fusce interdum nisl nibh, quis pellentesque turpis vehicula sit amet." >}}
+
+
 We had an outstanding service and a fantastic customer experience. This guys know very well how to sell houses in a very gentle way. 
 
 
 ![Example image](/images/bauforum_team.jpg)
-© weberhaus
+<center>© weberhaus</center>
+
+
 
