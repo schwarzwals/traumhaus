@@ -19,9 +19,6 @@ Few words about the guys who helped us to start this journey.<br>
 We had an outstanding service and a fantastic customer experience. This guys know very well how to sell houses in a very gentle way. 
 
 
-{{< sidenote note="Ut quis turpis quis enim rhoncus vehicula vel et neque. Nullam porta nunc rutrum velit faucibus interdum. Cras in quam non leo mattis feugiat. Fusce interdum nisl nibh, quis pellentesque turpis vehicula sit amet." >}}
-
-
 ![Example image](/images/bauforum_team.jpg)
-©weberhaus
+© weberhaus
 
