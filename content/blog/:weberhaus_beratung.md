@@ -1,6 +1,6 @@
 ---
 title: "Buy now or cry later"
-date: 2020-10-05T17:50:10+01:00
+date: 2020-09-05T17:50:10+01:00
 slug: ""
 description: "weberhaus beratung"
 keywords: [weberhaus beratung]
