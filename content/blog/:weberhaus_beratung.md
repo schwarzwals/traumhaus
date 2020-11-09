@@ -10,6 +10,7 @@ math: false
 toc: false
 ---
 
-Few words about the guys who helped us start this journey. <a href="https://www.weberhaus.de/bauforum-in-offenburg-hohberg/" target="_blank">Alexander Fuchs</a>, WeberHaus advisor/salesman.  
+Few words about the guys who helped us start this journey.
+<a href="https://www.weberhaus.de/bauforum-in-offenburg-hohberg/" target="_blank">Alexander Fuchs</a>, WeberHaus advisor/salesman. A super down to earth guy. Well prepared from the first appointment.  
 
-![Example image](/images/vertrag.png)
+![Example image](/images/bauforum_team.jpg)
