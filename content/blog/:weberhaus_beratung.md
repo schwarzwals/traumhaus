@@ -1,5 +1,5 @@
 ---
-title: "Price is what you pay. Value is what you get."
+title: "Buy now or cry later"
 date: 2020-10-05T17:50:10+01:00
 slug: ""
 description: "weberhaus beratung"
@@ -10,7 +10,9 @@ math: false
 toc: false
 ---
 
-Few words about the guys who helped us start this journey.
-<a href="https://www.weberhaus.de/bauforum-in-offenburg-hohberg/" target="_blank">Alexander Fuchs</a>, WeberHaus advisor/salesman. A super down to earth guy. Well prepared from the first appointment.  
+Few words about the guys who helped us to start this journey.<br>
+<a href="https://www.weberhaus.de/bauforum-in-offenburg-hohberg/" target="_blank">Alexander Fuchs</a>, WeberHaus advisor/salesman. A super down to earth guy. Well prepared from the very first appointment. Open minded. 
+
+Price is what you pay. Value is what you get.
 
 ![Example image](/images/bauforum_team.jpg)
