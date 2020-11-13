@@ -10,7 +10,7 @@ math: false
 toc: false
 ---
 
-Things are moving slowly but surely. Today we had an interesting appointemnt with our Architect.<br>
+Things are moving slowly but surely. Today we had an interesting appointment with our Architect.<br>
 
 <a href="https://www.bauatelier-walter.de/" target="_blank">Nino Walter</a> guided us through the complex regulatory procedures. He suggested some changes here and there and explained a lot of small but important things.
 
