@@ -11,6 +11,5 @@ toc: false
 ---
 
 Yaaaay ! This is it ! Our House in 3D.
-
-![Example image](/images/showcase_3d_entrance.jpg)
+![Example image](/images/showcase_3d_entrance.jpg)<br><br>
 ![Example image](/images/showcase_3d.jpg)
