@@ -10,11 +10,6 @@ math: false
 toc: false
 ---
 
-
-
-Test
-
-{{< instagram CIOlFKyIs1r hidecaption >}}
-
+test
 
 
