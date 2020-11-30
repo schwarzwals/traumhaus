@@ -13,3 +13,4 @@ toc: false
 test
 
 
+{{< video autoplay="true" loop="true" src="https://streamable.com/mfk7jx" >}}
