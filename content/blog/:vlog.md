@@ -1,6 +1,6 @@
 ---
 title: "Vlog"
-date: 2020-11-30T17:50:10+01:00
+date: 2020-11-20T17:50:10+01:00
 slug: ""
 description: "weberhaus architekt"
 keywords: [weberhaus vlog]
