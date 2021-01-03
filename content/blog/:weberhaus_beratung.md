@@ -20,7 +20,7 @@ Few words about the guys who helped us to start this journey.<br>
 We had an outstanding service and a fantastic customer experience. This guys know very well how to sell houses in a very gentle way. 
 
 
-![Example image](/images/bauforum_team.jpg)
+![Example image](/images/uploads/bauforum_team.jpg)
 <center>© weberhaus</center>
 
 

@@ -18,4 +18,4 @@ If everything goes smooth, we should move in somewhere between March - September
 
 <a href="https://www.weberhaus.de/" target="_blank">Weberhaus</a> is going to build our Dreamhouse.
 
-![Example image](/images/vertrag.png)
+![Example image](/images/uploads/vertrag.png)

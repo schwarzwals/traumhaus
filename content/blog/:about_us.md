@@ -22,5 +22,5 @@ We decided to build a house because...why paying off someone else's credit. Just
 
 So yeah, here we are. Full of debts for the next 30 years. But hey, we'are all in this together right ? 
 
-![Example image](/images/bauherren.jpg)
-![Example image](/images/bauherrenjr.jpg)
+![Example image](/images/uploads/bauherren.jpg)
+![Example image](/images/uploads/bauherrenjr.jpg)

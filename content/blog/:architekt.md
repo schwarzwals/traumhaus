@@ -14,7 +14,7 @@ Things are moving slowly but surely. Today we had an interesting appointment wit
 
 <a href="https://www.bauatelier-walter.de/" target="_blank">Nino Walter</a> guided us through the complex regulatory procedures. He suggested some changes here and there and explained a lot of small but important things.
 
-![Example image](/images/plan_showcase.jpg)
+![Example image](/images/uploads/plan_showcase.jpg)
 
 
 
