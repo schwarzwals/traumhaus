@@ -7,15 +7,12 @@ public_folder: "/images/uploads"
 
 
 collections:
-  - label: "Blog (English)"
-    name: "blog_english"
+  - label: "Blog"
+    name: "blog"
     folder: "content/blog"
-    path: "{{year}}/{{month}}/{{slug}}"
-    preview_path: "blog/{{slug}}"
     create: true
-    filter: {field: "language", value: "en"}
     fields:
-      - {label: "Language", name: "language", widget: "select", options: ["en", "es", "ko"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}`
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
