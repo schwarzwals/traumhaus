@@ -6,7 +6,7 @@ tags:
 ---
 First Floor
 
-Interactive floor map : <https://hausplan.netlify.app/>
+
 
 ![](/images/uploads/erdgeschoss.png)
 
