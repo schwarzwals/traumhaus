@@ -5,7 +5,6 @@ tags:
   - erdarbeiten
   - groundworks
   - singler
-  - ""
 ---
 The waiting is over ! 
 
