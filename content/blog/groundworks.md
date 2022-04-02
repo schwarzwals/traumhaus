@@ -12,7 +12,7 @@ Well...almost.
 
 Last week the Groundworks started and we can't be any happier, we've been waiting for too long.
 
-**[Singler Transporte](https://www.singler-transporte.de/)** did a very good job. These guys were fast, accurate, clean. Recommend. 
+[Singler Transporte](https://www.singler-transporte.de "Singler") did a very good job. These guys were fast, accurate, clean. Recommend. 
 
 The House is coming somewhere in July-August, which means another 5 months of waiting.
 
